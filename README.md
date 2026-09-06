@@ -1,4 +1,8 @@
+<img width="1292" height="218" alt="image" src="https://github.com/user-attachments/assets/50eb3190-a0f6-48a9-b152-20100f150466" />
+
+
 # Visor WordStar
+
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
