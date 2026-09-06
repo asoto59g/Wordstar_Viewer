@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="wordstar.gif" alt="Runoff simulation" width="800">
+</p>
 <img width="1292" height="218" alt="image" src="https://github.com/user-attachments/assets/50eb3190-a0f6-48a9-b152-20100f150466" />
 
 
