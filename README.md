@@ -6,6 +6,8 @@
 
 Aplicacion Streamlit para consultar documentos WordStar antiguos, incluidos los archivos sin extension de esta carpeta.
 
+App en siguiente link: https://wordstarviewer-fbeghpk9ynug5oscgsuf2v.streamlit.app/
+
 La aplicacion interpreta los controles inline de WordStar, conserva el espaciado de los documentos y permite descargar una copia de texto limpio. Los archivos `CHAPIA91`, `DOCTOP`, `NAVA`, `RABA`, `RABAZO2` y `RABAZO3` son documentos de datos y deben permanecer junto a `app.py`.
 
 ## Ejecutar
